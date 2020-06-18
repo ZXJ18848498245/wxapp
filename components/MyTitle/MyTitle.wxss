@@ -1,0 +1,28 @@
+.my_title{
+    display: flex;
+    align-items: center;
+    padding: 10rpx;
+    background-color: white;
+
+}
+.logo{
+    flex: 7;
+}
+.search{
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.user{
+    flex:2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.download{
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

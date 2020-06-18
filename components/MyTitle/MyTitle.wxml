@@ -1,0 +1,20 @@
+<view class="my_title">
+    <!-- logo -->
+    <navigator class="logo">
+        <image class="logo_img" style="width: 140rpx ;height: 60rpx;" src="../../static/icons/logo.png"></image>
+    </navigator>
+    <!-- 搜素-->
+    <view class="search">
+        <image class="search_img" style="width: 60rpx ;height: 60rpx;" src="../../static/icons/search.png"></image>
+    </view>
+    <!-- 用户-->
+    <view class="user">
+        <image class="user_img" style="width: 54rpx ;height: 54rpx;" src="../../static/icons/user.png"></image>
+    </view>
+    <!-- 下载按钮-->
+    <view class="download">
+        <image class="download_img" style="width: 60rpx ;height: 60rpx;"  src="../../static/icons/download.png"></image>
+    </view>
+
+
+</view>
